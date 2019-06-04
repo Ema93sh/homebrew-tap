@@ -6,11 +6,14 @@
 brew tap ema93sh/tap
 ```
 
-## Packages
+# Packages
 
-### Gclean
-A custom cli to clean you disk
+## GClean
 
+### Description
+CLI to clean your disk
+
+### Install
 ```
 brew install gclean
 ```
