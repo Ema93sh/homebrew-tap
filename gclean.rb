@@ -2,7 +2,7 @@ class Gclean < Formula
   desc "CLI for cleaning you os"
   homepage "https://gclean.mage.sh"
   url "https://storage.googleapis.com/gclean/0.0.9/gclean.tar.gz"
-  sha256 "dbe0184bef848bb196e94ab90289ce82b316089479486516be3fa84dc64dde42"
+  sha256 "2724306df7b60d492dc6a5da257ee49520637e3ffd6719bb1b8b8622a24fa2a0"
   depends_on "go" => :build
 
   def install
